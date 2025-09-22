@@ -52,7 +52,7 @@ uvicorn app.main:app --reload
 
 ## Frontend (Expo React Native)
 
-Install dependencies: cd FYP
+Install dependencies: cd Apps
 npm install
 npx expo start
 
